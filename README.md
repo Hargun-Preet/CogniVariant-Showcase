@@ -9,7 +9,18 @@
 > 
 > Detailed code walkthroughs, architecture deep-dives, and live demos are available upon request for interview purposes.
 
-CogniVariant is a full-stack genomic analysis platform that leverages the state-of-the-art **Evo 2 Large Language Model** to predict the pathogenicity of **Single Nucleotide Variants (SNVs)**. By deploying a Python backend on serverless **NVIDIA H100 GPUs** using Modal, the app provides real-time AI scoring to determine if specific DNA mutations are **Pathogenic** or **Benign**.
+CogniVariant is a full-stack genomic analysis platform that leverages the state-of-the-art **Evo 2 Large Language Model** to predict the pathogenicity of **Single Nucleotide Variants (SNVs)**. By deploying a 
+Python backend on serverless **NVIDIA H100 GPUs** using Modal, the app provides real-time AI scoring to determine if specific DNA mutations are **Pathogenic** or **Benign**.
+
+<br />
+<div align="center">
+  <a href="https://youtu.be/pQLb1d4RAi0">
+    <img src="https://github.com/user-attachments/assets/64777996-9dfc-44af-9a11-64ea8c95be99" alt="Watch the Demo" width="800" style="border-radius: 10px" />
+  </a>
+  <br />
+  <p><b>🎥 Click to Watch the Full Demo</b></p>
+</div>
+<br />
 
 ---
 
